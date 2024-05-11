@@ -10,7 +10,7 @@ Drip Lite for Linux
 * curl
 * jq
 ### Running
-* **IMPORTANT**: INSTALL DRIP LITE & A PORTABLE MINECRAFT LAUNCHER BEFOREHAND!
+* ⚠️ **IMPORTANT**: INSTALL DRIP LITE & A PORTABLE MINECRAFT LAUNCHER BEFOREHAND! ⚠️
 * Clone this repository
 * Run `chmod +x Installer.sh`
 * Run `./Installer.sh`
